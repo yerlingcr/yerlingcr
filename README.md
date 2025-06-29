@@ -1,7 +1,7 @@
 - 👋 Hola, Yo soy @yerlingcr, soy de Costa Rica 🟦⬜🟥🟥⬜🟦
-- 👀 Estoy interesado en aprender de programación y tecnologías móbiles.
-- 🌱 Actualmente estoy aprendiendo Python y deseo aprender bien C# para crear video juegos sencillos.
-- 💞️ Estoy buscando colaborar en lo que pueda, sé principios básicos de programación y redes.
+- 👀 Me encanta la música, la tecnología, programación y video juegos.
+- 🌱 Actualmente estoy actualizandome con las nuevas tecnologías de desarrollo.
+- 💞️ Estoy aprendiendo y colaborando en lo que pueda.
 - 📫 Puedes escribirme a yerlingcr@gmail.com o a mi Telegrama @yerlingmm
 
 <!---
